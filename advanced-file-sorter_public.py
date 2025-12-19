@@ -1,6 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# v1 by thegitmate (n)
+
+"""
+Bulk Filename Sorter
+
+Created: December 2025
+Author: thegitmate
+GitHub: https://github.com/thegitmate/bulk-filename-sorter
+Version: 1
+"""
 
 from __future__ import annotations
 
